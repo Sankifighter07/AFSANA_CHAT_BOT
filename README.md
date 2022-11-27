@@ -11,7 +11,7 @@
 Note : 📝 Aғsᴀɴᴀ ᴄʜᴀᴛ ʙᴏᴛ ғᴏʀ ᴛᴇʟᴇɢʀᴀᴍ .
 
 <p align="center">
-  <img src="https://telegra.ph/file/cae0924e461ce7904cd54.jpg">
+  <img src="https://graph.org/file/2efaa2a5f1f7e9afb25d8.jpg">
 </p>
 
 ## How To Host  The easiest way to deploy this Bot
