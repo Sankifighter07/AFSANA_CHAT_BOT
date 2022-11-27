@@ -10,7 +10,9 @@
 
 Note : 📝 Aғsᴀɴᴀ ᴄʜᴀᴛ ʙᴏᴛ ғᴏʀ ᴛᴇʟᴇɢʀᴀᴍ .
 
-![logo](https://graph.org/file/58c9edff79ed6831c05a8.jpg) 
+<p align="center">
+  <img src="https://telegra.ph/file/cae0924e461ce7904cd54.jpg">
+</p>
 
 ## How To Host  The easiest way to deploy this Bot
 • Enter ```MONGO_URL```,```API_ID```,```API_HASH```,```BOT_TOKEN```,```BOT_USERNAME```,```OWNER_USERNAME```,```BOT_NAME```,```UPDATE_CHNL```,```SUPPORT_GRP```,```STKR```And```START_IMG```
@@ -27,3 +29,6 @@ Note : 📝 Aғsᴀɴᴀ ᴄʜᴀᴛ ʙᴏᴛ ғᴏʀ ᴛᴇʟᴇɢʀᴀᴍ .
 
 ## © Copyright - AFSANA  (RAJPUT KA CHORA)
 
+<p align="center">
+  <img src="https://telegra.ph/file/358bff4b719128fe6ff11.jpg">
+</p>
