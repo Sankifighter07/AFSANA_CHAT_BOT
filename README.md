@@ -16,8 +16,7 @@ Note : 📝 Aғsᴀɴᴀ ᴄʜᴀᴛ ʙᴏᴛ ғᴏʀ ᴛᴇʟᴇɢʀᴀᴍ .
 
 ## How To Host  The easiest way to deploy this Bot
 • Enter ```MONGO_URL```,```API_ID```,```API_HASH```,```BOT_TOKEN```,```BOT_USERNAME```,```OWNER_USERNAME```,```BOT_NAME```,```UPDATE_CHNL```,```SUPPORT_GRP```,```STKR```And```START_IMG```
-<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/sankifighter07/Smart-Chatbot"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
- 
+<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/sankifighter07/AFSANA_CHAT_BOT"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
                                  
 ### Reach Me
 <p align="center"><a href="http://t.me/BATTERY_ABOUT_TO_DAI_ERROR"> <img src="https://img.shields.io/badge/Telegram%20Bot-pink?style=for-the-badge" width="220" height="38.45"/></a></p>
