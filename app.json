@@ -13,7 +13,7 @@
             "description": "telegram bot username here without @",
             "required": true
         },
-        "OWNER_USERNAME": { "@BATTERY_ABOUT_TO_DAI_ERROR",
+        "OWNER_USERNAME": {
             "description": "Owner Username without @",
             "required": true
         },
