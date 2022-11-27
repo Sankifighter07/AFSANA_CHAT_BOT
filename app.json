@@ -4,9 +4,6 @@
         "BOT_TOKEN": {
             "description": "telegram bot token here",
             "required": true
-
-{  "logo": "https://telegra.ph/file/3db447e67c370c0d69fcd.jpg",
-
         },        
         "MONGO_URL": {
             "description": "mongo db url here",
