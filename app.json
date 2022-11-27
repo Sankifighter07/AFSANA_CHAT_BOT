@@ -1,5 +1,5 @@
 {
-    "name": "EmiliaMachineBot",    
+    "name": "❤️👑𓊈⋆⃟⧉⃞AFSANA𓆩❤️𓆪QUEEN⋆⃟𓊉 👑❤️『❣️』",    
     "env": {
         "BOT_TOKEN": {
             "description": "telegram bot token here",
@@ -13,7 +13,7 @@
             "description": "telegram bot username here without @",
             "required": true
         },
-        "OWNER_USERNAME": {
+        "OWNER_USERNAME": { "@BATTERY_ABOUT_TO_DAI_ERROR",
             "description": "Owner Username without @",
             "required": true
         },
